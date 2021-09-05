@@ -1,0 +1,18 @@
+[submodule "comment"]
+	path = comment
+	url = ./comment/
+[submodule "event-bus"]
+	path = event-bus
+	url = ./event-bus/
+[submodule "moderation"]
+	path = moderation
+	url = ./moderation/
+[submodule "post"]
+	path = post
+	url = ./post/
+[submodule "query_service"]
+	path = query_service
+	url = ./query_service/
+[submodule "ui"]
+	path = ui
+	url = ./ui/
